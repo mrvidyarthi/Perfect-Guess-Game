@@ -114,7 +114,7 @@ class PerfectGuessGame:
         self.setup_game()
 
     def end_game(self):
-        print("👋 Game Ended by User.")
+        print("Game Ended by User.")
         self.root.destroy()
         sys.exit()
 
