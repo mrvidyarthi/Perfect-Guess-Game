@@ -77,9 +77,9 @@ If you have ideas to improve the game, feel free to fork, enhance and send a pul
 
 ## 📧 Contact
 
-📧 Email: mr.khwahish2024@gmail.com
-
 📱 Mobile: +91 8808179161
+
+📧 Email: mr.khwahish2024@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/mrvidyarthi
 
