@@ -81,9 +81,7 @@ If you have ideas to improve the game, feel free to fork, enhance and send a pul
 
 📱 Mobile: +91 8808179161
 
-💻 GitHub: github.com/mrvidyarthi
-
-🔗 LinkedIn: linkedin.com/in/mrvidyarthi
+🔗 LinkedIn: www.linkedin.com/in/mrvidyarthi
 
 
 
